@@ -4,10 +4,15 @@ Creation-Date: 2021-11-11T23:11:57+01:00
 
 ====== My World Model ======
 
-This repository contains my views on the world.
-Updated as my beliefs change, this method of writing a... //book//(?) seems much more suitable for the modern world.
+''Better ways of thinking, feeling, and acting - around problems of philosophy, rationality, knowledge-aquisition (epistemology), self and society, ethics, purpose, and value.''
 
-Please start a discussion here: https://github.com/WorldModel/WorldModel/discussions
+(this intro text was stolen inspired by meaningness.com, authoured by the genius David Chapman, go check it out!)
+
+This repository contains my personal views on the world.
+Beware: my world might look different than yours. My world is WEIRD (western, educated, industrialized, rich and democratic).
+Updated as my beliefs change, this method of writing a hyperbook seems much more suitable for the modern world.
+
+Help me better understand the world. Become a co-author or start a discussion here: https://github.com/WorldModel/WorldModel/discussions
 Please provide a reference to what you are referring to (ideally a link to the file including commit hash).
 
 This is not a software project (duh) and it's also not a copyleft project.

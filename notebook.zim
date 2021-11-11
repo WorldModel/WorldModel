@@ -2,10 +2,10 @@
 version=0.4
 name=worldmodel
 interwiki=
-home=Home
-icon=
-document_root=
-short_links=False
+home=README
+icon=./logo.png
+document_root=~/projects/worldmodel
+short_links=True
 shared=True
 endofline=unix
 disable_trash=False
