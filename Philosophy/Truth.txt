@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-11-11T23:41:05+01:00
+
+====== Truth ======
+
+This is a sub-page. I am currently playing around with zim wiki wheeee!

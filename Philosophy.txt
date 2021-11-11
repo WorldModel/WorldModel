@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-11-11T23:39:49+01:00
+
+====== Philosophy ======
+
+===== What even IS philosophy? =====
+
+TODO
+
+===== Why should I care about greek law? =====
+
+TODO
+
+===== What do we mean when we say "philosophy"? =====
+
+TODO
+
+===== What qualifies me (the author), who distinctly did NOT study philosophy to write on this topic =====
+
+TODO

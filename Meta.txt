@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-11-11T23:46:10+01:00
+
+====== About this project ======
+
+TODO
+
+====== About the author ======
+
+I like to think and I am living in Braunschweig, Lower Saxony, Germany.
+This is my... uh... //blog// or something? Hyper-text internet book? Personal propaganda?
+I guess the reader needs to interpret me as an author. I can't (won't) provide that.
+
+====== About the logo ======
+
+Source: NASA, via https://unsplash.com/photos/vhSz50AaFAs
+Copyleft
+
+But is it truly earth? No. It's just a 2D map op the light waves boucing off earth, into very complicated optics, distorted, denoised, balanced and published by NASA. Thanks, NASA!
+Oh and also... I changed the hue in case you haven't noticed. I took the liberty to take the true-color represantation of earth and (just to fool you, personally) modify it slightly. Ha!
